@@ -1,0 +1,18 @@
+一:一张psd图转换成多张图片
+
+二:Mark  Man
+下载并练习使用
+
+三:git-hub使用(码云)
+1,申请账号https://github.com/join?source=header-home
+
+2,在sublime中安装git插件
+1)cmd+shift+p
+2)输入:install
+3)输入:sublimegit
+
+3,配置用户信息
+前往文件夹输入:/usr/local/bin/git
+终端输入:open ~/.ssh
+4,生成ssh私钥
+
